@@ -1,0 +1,15 @@
+﻿// Start the calls audio session here
+            //CXAnswerCallAction
+            //CXStartCallAction
+            //CXEndCallAction
+            //CXSetHeldCallAction
+            //CXSetGroupCallAction 
+            //CXSetMutedCallAction
+            //CXPlayDtmfCallAction
+
+
+
+            START CALL INTENT NSUSerMkit 
+            Introducing SiriKit
+
+
